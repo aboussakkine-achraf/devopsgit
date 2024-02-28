@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est D48C-3C5B
+
+ R‚pertoire de C:\Users\Leno\Desktop\app1
+
+28/02/2024  12:00    <DIR>          .
+28/02/2024  11:53    <DIR>          ..
+28/02/2024  12:00                 0 fichier1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  75ÿ093ÿ700ÿ608 octets libres
